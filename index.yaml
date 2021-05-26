@@ -9,6 +9,6 @@ entries:
     name: sample-rhacm-policy-controller
     type: application
     urls:
-    - https://github.com/jmereaux/helm-charts/sample-rhacm-policy-controller-0.1.0.tgz
+    - https://jmereaux.github.io/helm-charts/sample-rhacm-policy-controller-0.1.0.tgz
     version: 0.1.0
 generated: "2021-05-26T14:37:10.225142+02:00"

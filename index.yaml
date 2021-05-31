@@ -3,12 +3,12 @@ entries:
   sample-rhacm-policy-controller:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-05-26T14:37:10.229588+02:00"
+    created: "2021-05-31T14:06:11.197567+02:00"
     description: A Helm chart for deploying a sample RHACM policy controller
-    digest: 5b3fd352ae0e1ffa4771e2072df9383297e3beed880f7f90fda2f280e6eba15e
+    digest: ba116ab8c1023a8eaa49f856d4ea29c5975537872a121618b35a9d840921bd23
     name: sample-rhacm-policy-controller
     type: application
     urls:
     - https://jmereaux.github.io/helm-charts/sample-rhacm-policy-controller-0.1.0.tgz
     version: 0.1.0
-generated: "2021-05-26T14:37:10.225142+02:00"
+generated: "2021-05-31T14:06:11.196306+02:00"

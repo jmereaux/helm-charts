@@ -3,12 +3,12 @@ entries:
   sample-rhacm-policy-controller:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-05-31T14:06:11.197567+02:00"
+    created: "2021-06-07T14:21:56.560541+02:00"
     description: A Helm chart for deploying a sample RHACM policy controller
     digest: ba116ab8c1023a8eaa49f856d4ea29c5975537872a121618b35a9d840921bd23
     name: sample-rhacm-policy-controller
     type: application
     urls:
-    - http://helm-repo.openpaas-helm-repo-ats-openpaas-cc:8080/sample-rhacm-policy-controller-0.1.0.tgz
+    - https://helm-repo-openpaas-helm-repo-ats-openpaas-cc.shared-tools-int.maint5.eu-central-1.aws.openpaas-maint.axa-cloud.com/sample-rhacm-policy-controller-0.1.0.tgz
     version: 0.1.0
-generated: "2021-05-31T14:06:11.196306+02:00"
+generated: "2021-06-07T14:21:56.559264+02:00"

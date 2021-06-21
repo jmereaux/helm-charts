@@ -1,11 +1,22 @@
 apiVersion: v1
 entries:
+  gk-policy-removal-controller:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2021-06-21T09:31:33.927256+02:00"
+    description: A Helm chart for deploying a controller in charge of removing Gatekeeper resources when the associated RHACM policy is removed or disabled
+    digest: e2b8d2dafd931b30a3a979dfb3fa82e2a1a967e02fe63fbaa6baaeea41851c00
+    name: gk-policy-removal-controller
+    type: application
+    urls:
+    - gk-policy-removal-controller-0.1.0.tgz
+    version: 0.1.0
   sample-rhacm-policy-controller:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-06-10T13:57:36.976133+02:00"
+    created: "2021-06-21T09:31:33.929232+02:00"
     description: A Helm chart for deploying a sample RHACM policy controller
-    digest: 787b60830f9041c1b98b936eb37547f24375c2bb19d729a3f9ec8b34019f75e6
+    digest: 4268d9c207d3830d1a74ea7b94ac989994e9e790fd48dfdfdedc097fb546acee
     name: sample-rhacm-policy-controller
     type: application
     urls:
@@ -13,7 +24,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-06-10T13:57:36.974898+02:00"
+    created: "2021-06-21T09:31:33.928284+02:00"
     description: A Helm chart for deploying a sample RHACM policy controller
     digest: ba116ab8c1023a8eaa49f856d4ea29c5975537872a121618b35a9d840921bd23
     name: sample-rhacm-policy-controller
@@ -21,4 +32,4 @@ entries:
     urls:
     - sample-rhacm-policy-controller-0.1.0.tgz
     version: 0.1.0
-generated: "2021-06-10T13:57:36.973476+02:00"
+generated: "2021-06-21T09:31:33.925828+02:00"
